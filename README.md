@@ -1,5 +1,6 @@
-# Film-cyclic-voltammetry-analysis
-A code in Rscript that allows cyclic voltammograms showing film-based redox signals to be analysed
+# Film-cyclic-voltammetry-analysis https://doi.org/10.5281/zenodo.2653615
+
+#A code in Rscript that allows cyclic voltammograms showing film-based redox signals to be analysed
 
 #This code reads in xy files. These files should be systematically named
 #The scan rates used should be part of the file names. List the scan rates in the vector below
