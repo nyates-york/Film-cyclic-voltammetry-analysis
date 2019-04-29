@@ -3,6 +3,7 @@ A code in Rscript that allows cyclic voltammograms showing film-based redox sign
 
 #This code reads in xy files. These files should be systematically named
 #The scan rates used should be part of the file names. List the scan rates in the vector below
+
 Scanrates = c(1000,750,500,400,300,200,100,50,25)
 
 #Define a vector of colours to be used in the graphs
